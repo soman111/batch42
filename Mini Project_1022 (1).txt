@@ -1,0 +1,33 @@
+Raman will provide all files in zip 
+rest all work done by you .
+
+1. one zip file , that zip file contain 4 CSV files ( customer , employee , debit & credit details , Branch details)
+2. extract that zip file 
+3. 
+customer (Name of file : Customer____) --> customer table in sql
+Employee ( Empoyee ___) --> Employee table in SQL 
+debit & credit( transaction ___)  --> transaction table in SQL 
+Branch ( Branch____) --> branch table in SQL 
+4. 
+
+Branch wise monthly transaction details in CSV 
+
+customer last six month bank statement in csv 
+
+march : 6 CSV file :  mar -24 ,feb-24, jan -24 , dec-23, nov-23 , oct-23 
+Name of file : CustomerName_MonthName_Year
+Deepa_Mar_2024
+Anshu_mar_2024
+5.  transfer all process file into process folder ( less p)
+
+
+
+
+
+
+
+
+
+
+
+
